@@ -21,10 +21,16 @@ procedure Main is
    --  end loop;
 
 
+
+
+
    --La computadora determina un numero al azar
    --el usuario tiene N(por defecto 5) oportunidades
    --la computadora informa al usuario si el numero ingresado es mayor o menor al numero secreto
    --si el usuario adivina gana, si no adivina dentro de las n oportunidades pierde.
+
+   --types
+   type Valor_azar_posible is new Integer range 1..100; --definicion de tipo propio
 
    Default_Numero_Intentos : constant Integer := 5;
    G : Generator;
@@ -35,21 +41,24 @@ begin
 
    Reset(G);
    Numero_Al_Azar := Integer( (Random(G) * 100.0) + 1.0 );
-   Put_Line(Numero_Al_Azar'Image);
+   --Put_Line(Numero_Al_Azar'Image);
 
    for I in 1..Default_Numero_Intentos loop
-   Put_Line("Ingrese un numero:");
-   Numero_Usuario := Integer'Value(Get_Line);
+      Put_Line("Ingrese un numero:");
+      Numero_Usuario := Integer'Value(Get_Line);
 
-   if (Numero_Usuario = Numero_Al_Azar) then
+      if (Numero_Usuario = Numero_Al_Azar) then
          Put_Line("Ganó");
          exit;
-   elsif (Numero_Usuario < Numero_Al_Azar) then
+      elsif (Numero_Usuario < Numero_Al_Azar) then
          Put_Line("Su numero introducido es menor");
-   elsif (Numero_Usuario > Numero_Al_Azar) then
+      elsif (Numero_Usuario > Numero_Al_Azar) then
          Put_Line("Su numero introducido es mayor");
-   end if;
+      end if;
+
    end loop;
+
+   Put_Line("El numero era: " & Numero_Al_Azar'Image);
 
    null;
 end Main;

@@ -1,0 +1,2 @@
+main.adb:89:102: error: formal parameter "Max" cannot be used before end of specification
+main.adb:90:100: error: formal parameter "Min" cannot be used before end of specification
