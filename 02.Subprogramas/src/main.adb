@@ -83,10 +83,61 @@ begin
    --     Put_Line("Despues " & Primero'Image & " " & Segundo'Image);
    --  end;
 
+   declare
+      A : Integer := 2;
+      B : Integer := 3;
+      Res : Integer;
+      FA : Float := 7.0;
+      FB : Float := 8.0;
+      FRes : Float;
+
+   --Aqui se pueden declarar funciones y procedures
+
+   --funcion que sume dos enteros y devuelva un resultado
+   function Suma_Dos_Numeros(Primero : in Integer; Segundo : in Integer) return Integer is
+   begin
+      return Primero + Segundo;
+   end;
+
+   function Suma_Dos_Numeros(Primero : in Float; Segundo : in Float) return Float is
+   begin
+      return Primero + Segundo;
+   end;
+
+   --sobrecarga de operadores
+   function "+"(Primero : in Float; Segundo : in Integer) return Float is
+      begin
+         Put_Line("Sobrecarga del +");
+      return Primero + Float(Segundo);
+   end;
+
+   --renombrar procedimientos
+   procedure PrintF(Item : String) renames Put_Line;
 
 
+   begin
+      --Es una funcion, entonces estoy obligado a ussar su valor de retorno;
+      Res := Suma_Dos_Numeros(A,B);
+      PrintF("La suma de " & A'Image & " mas " & B'Image & " es " & Res'Image);
 
+      --Sobrecarga de funciones
+      Fres := Suma_Dos_Numeros(FA,FB);
+      Put(FA, Exp => 0, Aft => 2);
+      Put(" + ");
+      Put(FB, Exp => 0, Aft => 2);
+      Put(" = ");
+      Put(FRes, Exp => 0, Aft => 2);
+      Put_Line("");
 
+      --Sumo dos tipos distintos- necesitas casteo o sobrecarga de operadores
+      --  FRes := Float(A) + FA;
+      --  Put(FRes, Exp => 0);
+
+      --usando procedimiento de sobrecarga
+      FRes := FA + A;
+      Put(FRes, Exp => 0);
+
+   end;
 
 
    null;
