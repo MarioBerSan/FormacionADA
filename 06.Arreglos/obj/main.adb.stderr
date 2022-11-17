@@ -1,0 +1,1 @@
+main.adb:241:26: warning: "Sumatorio" may be referenced before it has a value [enabled by default]

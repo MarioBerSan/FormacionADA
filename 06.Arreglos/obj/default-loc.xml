@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\figuras.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\figuras.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 11" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 25" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 30" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 24" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 11" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 25" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 26" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\default.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 40" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 114" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 25" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 82" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 25" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 44" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 27" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 82" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 22" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 27" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 44" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 22" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 44" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 50" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 22" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 51" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 51" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 22" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 55" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 22" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 58" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\calendario.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\calendario.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 58" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 22" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 4" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 22" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 29" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\calendario.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 17" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\calendario.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 29" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\calendario.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\calendario.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 2" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\calendario.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 22" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 61" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 22" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 24" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\calendario.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 22" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 62" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 62" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 62" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 62" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 62" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 62" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 22" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 34" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\calendario.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 73" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 73" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\05.TiposDeDatos\05.TiposDeDatos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 65" line=" 63" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\io.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 159" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 170" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 181" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 252" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 181" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 182" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 181" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 266" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 256" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 256" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 256" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 258" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 208" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 209" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 208" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 209" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 208" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 46" line=" 259" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 209" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 208" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 209" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 209" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 204" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 213" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 64" line=" 203" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 258" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 262" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 244" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 57" line=" 244" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 241" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 244" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 26" line=" 241" >
+      <vfs_project>C:\GNAT\CursoADA\06.Arreglos\default.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\06.Arreglos\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
