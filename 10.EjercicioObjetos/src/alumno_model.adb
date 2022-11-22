@@ -19,7 +19,7 @@ package body Alumno_model is
    
    
    --Metodos
-   procedure Rendir_Examen(This: C_Alumno) is
+   procedure Rendir_Examen(This: out C_Alumno) is
 
       Calificacion : Nota;
    begin

@@ -1,0 +1,147 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P SS ZX
+
+RN
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_LOCAL_ALLOCATORS
+RV NO_SECONDARY_STACK
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U io%b			io.adb			57851cbd NE OO PK IL
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+Z system.concat_3%s	s-conca3.adb		s-conca3.ali
+Z system.exp_llli%s	s-expllli.ads		s-expllli.ali
+Z system.fat_flt%s	s-fatflt.ads		s-fatflt.ali
+Z system.img_int%s	s-imgint.ads		s-imgint.ali
+Z system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+Z system.val_flt%s	s-valflt.ads		s-valflt.ali
+Z system.val_int%s	s-valint.ads		s-valint.ali
+
+U io%s			io.ads			22828512 EE NE OO PK IL
+W ada%s			ada.ads			ada.ali
+W ada.strings%s		a-string.ads		a-string.ali
+W ada.strings.fixed%s	a-strfix.adb		a-strfix.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-charac.ads		20210520051128 2d3ec45b ada.characters%s
+D a-chlat1.ads		20210520051128 66457d31 ada.characters.latin_1%s
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-ioexce.ads		20210520051128 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-strfix.ads		20210520051130 aeacf44c ada.strings.fixed%s
+D a-strmap.ads		20210520051130 5a88892a ada.strings.maps%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-textio.ads		20210520051130 aef4d56d ada.text_io%s
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D interfac.ads		20210520051132 edec285f interfaces%s
+D i-cstrea.ads		20210520051132 e53d8b8e interfaces.c_streams%s
+D io.ads		20221117092428 b276c3a4 io%s
+D io.adb		20221117092332 e5f3df19 io%b
+D system.ads		20210520051136 2ffa5114 system%s
+D s-conca3.ads		20210520051132 0b705ca5 system.concat_3%s
+D s-crtl.ads		20210520051132 0ebbdb71 system.crtl%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-expllli.ads		20210520051132 3a6173ec system.exp_llli%s
+D s-expont.ads		20210520051132 55ecbc5a system.expont%s
+D s-fatflt.ads		20210520051132 11beb392 system.fat_flt%s
+D s-fatgen.ads		20210520051132 d28c6cfe system.fat_gen%s
+D s-ficobl.ads		20210520051132 078245e4 system.file_control_block%s
+D s-imagei.ads		20210520051134 0d3f86a7 system.image_i%s
+D s-imgint.ads		20210520051134 bdb6f5ec system.img_int%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-powflt.ads		20210520051134 46f7a1b9 system.powten_flt%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D s-valflt.ads		20210520051134 d738ba7d system.val_flt%s
+D s-valint.ads		20210520051134 e7fcadb7 system.val_int%s
+D s-valrea.ads		20210520051134 8ddc6624 system.val_real%s
+D s-valuns.ads		20210520051134 dac7b45d system.val_uns%s
+D s-valuei.ads		20210520051134 978dd0a6 system.value_i%s
+D s-valueu.ads		20210520051134 7b8fccf5 system.value_u%s
+D s-wchcon.ads		20210520051136 1b7d22d2 system.wch_con%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z s b [get_non_empty_line io 7 13 none]
+G c Z s b [try_convert_integer io 10 13 none]
+G c Z s b [get_integer io 13 13 none]
+G c Z s b [get_integer_between io 23 13 none]
+G c Z s b [reemplazar io 31 14 none]
+G c Z s b [try_convert_float io 35 13 none]
+G c Z s b [get_float io 39 13 none]
+G c Z s b [to_string io 43 13 none]
+X 1 ada.ads
+16K9*Ada 20e8 17|1r6 1r23 2r6 2r23 3r6 3r29
+X 7 a-string.ads
+16K13*Strings 35e16 17|2w10 2r27 3r10 3r33
+33n37*Both{33E9} 18|167r95
+X 8 a-strfix.ads
+43K21*Fixed 1398e22 17|3w18 3r41
+1097V13*Trim{string} 18|167s11
+X 13 a-textio.ads
+58K13*Text_IO 725e16 17|1w10 1r27
+493V13*Get_Line{string} 18|12s31 43s38 146s40
+506U14*Put_Line 18|9s7 17s13 42s7 44s10 104s12 106s12 143s7 153s16
+X 17 io.ads
+5K9*io 48l5 48e7 18|3b14 174l5 174t7
+7V13*Get_Non_Empty_Line{string} 7>32 8>32 18|6b13 20l8 20t26
+7a32 Prompt{string} 18|6b32 9r16
+8a32 Error{string} 18|7b32 17r22
+10V13*Try_Convert_Integer{boolean} 10>33 11<33 18|24b13 32t7 43s18
+10a33 Texto{string} 18|24b33 27r42
+11i33 Texto_Como_Entero{integer} 18|25b33 27m7
+13V13*Get_Integer{integer} 13>25 14>25 18|38b13 47l8 47t19 102s20
+13a25 Prompt{string} 18|38b25 42r16
+14a25 Error{string} 18|39b25 44r19
+23V13*Get_Integer_Between{integer} 24>7 25>7 26>7 27>7 28>7 29>7 18|92b13
+. 111t7
+24i7 Min{integer} 18|93b7 105r23
+25i7 Max{integer} 18|94b7 103r22
+26a7 Prompt{string} 18|95b7 102r32
+27a7 Empty_Error{string} 18|96b7 102r40
+28a7 Underflow_Error{string} 18|97b7 106r21
+29a7 Overflow_Error{string} 18|98b7 104r21
+31U14*Reemplazar 31=25 32>25 33>25 18|114b14 123l8 123t18 149s13
+31a25 Input{string} 18|114b25 118r16 119r14 120m13
+32e25 Caracter_A_Reemplazar{character} 18|115b25 119r23
+33e25 Caracter_Reemplazo{character} 18|116b25 120r25
+35V13*Try_Convert_Float{boolean} 35>31 36<31 18|127b13 134t7 150s17
+35a31 Texto{string} 18|127b31 130r39
+36f31 Texto_Como_Float{float} 18|128b31 130m7
+39V13*Get_Float{float} 39>23 40>23 41>23 18|139b13 157l8 157t17
+39a23 Prompt{string} 18|139b23 143r16
+40a23 Error{string} 18|140b23 153r25
+41e23 Separador_Decimales{character} 18|141b23 149r41
+43V13*To_String{string} 43>23 44>23 45>23 18|161b12 170l8 170t17
+43f23 Input{float} 18|162b8 165r45 167r25 167r45
+44i23 Cantidad_Decimales{integer} 18|163b8 167r67
+45e23 Separador_Decimales{character} 18|164b8 166r11
+X 18 io.adb
+12a13 Nombre{string} 14r16 15r23
+40i7 Result{integer} 43m48 43r48 46r14
+99i6 Result{integer} 102m10 103r13 105r16 108r20
+118i11 I{integer} 119r20 120r19
+144l7 Pedir_Numero 156l16 156e28
+146a13 Numero_En_Texto{string} 149r24 150r35
+147f13 Valor{float} 150m52 150r52 151r23
+165a7 Result=167:9{string} 169r14
+

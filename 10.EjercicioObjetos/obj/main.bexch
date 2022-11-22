@@ -4,6 +4,8 @@ b__main.o
 C:\GNAT\CursoADA\10.EjercicioObjetos\default.gpr
 20221122094450 e59fa62b22747396f527ce05efa04e09
 [BOUND OBJECT FILES]
+C:\GNAT\CursoADA\10.EjercicioObjetos\obj\io.o
+C:\GNAT\CursoADA\10.EjercicioObjetos\obj\alumno_model.o
 C:\GNAT\CursoADA\10.EjercicioObjetos\obj\main.o
 [GENERATED SOURCE FILES]
 b__main.ads

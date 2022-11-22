@@ -26,7 +26,7 @@ package Alumno_model is
    
    
    --Metodos
-   procedure Rendir_Examen(This: C_Alumno);
+   procedure Rendir_Examen(This: out C_Alumno);
    function Calcular_Promedio(This: C_Alumno) return Float;
 
    

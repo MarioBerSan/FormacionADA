@@ -40,7 +40,7 @@ package ada_main is
    pragma Export (C, main, "main");
 
    type Version_32 is mod 2 ** 32;
-   u00001 : constant Version_32 := 16#5da9f101#;
+   u00001 : constant Version_32 := 16#d5287beb#;
    pragma Export (C, u00001, "mainB");
    u00002 : constant Version_32 := 16#2e11c0b1#;
    pragma Export (C, u00002, "system__standard_libraryB");
@@ -314,10 +314,74 @@ package ada_main is
    pragma Export (C, u00136, "system__file_ioS");
    u00137 : constant Version_32 := 16#d265cbbc#;
    pragma Export (C, u00137, "system__file_control_blockS");
-   u00138 : constant Version_32 := 16#eca5ecae#;
-   pragma Export (C, u00138, "system__memoryB");
-   u00139 : constant Version_32 := 16#76873720#;
-   pragma Export (C, u00139, "system__memoryS");
+   u00138 : constant Version_32 := 16#53a658e3#;
+   pragma Export (C, u00138, "alumno_modelB");
+   u00139 : constant Version_32 := 16#6c84ee10#;
+   pragma Export (C, u00139, "alumno_modelS");
+   u00140 : constant Version_32 := 16#35d6ef80#;
+   pragma Export (C, u00140, "system__storage_poolsB");
+   u00141 : constant Version_32 := 16#548cb6a3#;
+   pragma Export (C, u00141, "system__storage_poolsS");
+   u00142 : constant Version_32 := 16#8e7c94d7#;
+   pragma Export (C, u00142, "system__storage_pools__subpoolsB");
+   u00143 : constant Version_32 := 16#8393ab70#;
+   pragma Export (C, u00143, "system__storage_pools__subpoolsS");
+   u00144 : constant Version_32 := 16#ca8c282d#;
+   pragma Export (C, u00144, "system__finalization_mastersB");
+   u00145 : constant Version_32 := 16#4e386d0b#;
+   pragma Export (C, u00145, "system__finalization_mastersS");
+   u00146 : constant Version_32 := 16#cafa918a#;
+   pragma Export (C, u00146, "system__storage_pools__subpools__finalizationB");
+   u00147 : constant Version_32 := 16#8bd8fdc9#;
+   pragma Export (C, u00147, "system__storage_pools__subpools__finalizationS");
+   u00148 : constant Version_32 := 16#de53e0a3#;
+   pragma Export (C, u00148, "ada__containers__helpersB");
+   u00149 : constant Version_32 := 16#4adfc5eb#;
+   pragma Export (C, u00149, "ada__containers__helpersS");
+   u00150 : constant Version_32 := 16#57851cbd#;
+   pragma Export (C, u00150, "ioB");
+   u00151 : constant Version_32 := 16#22828512#;
+   pragma Export (C, u00151, "ioS");
+   u00152 : constant Version_32 := 16#2b70b149#;
+   pragma Export (C, u00152, "system__concat_3B");
+   u00153 : constant Version_32 := 16#248a0db1#;
+   pragma Export (C, u00153, "system__concat_3S");
+   u00154 : constant Version_32 := 16#fd83e873#;
+   pragma Export (C, u00154, "system__concat_2B");
+   u00155 : constant Version_32 := 16#2d5a86c4#;
+   pragma Export (C, u00155, "system__concat_2S");
+   u00156 : constant Version_32 := 16#40779ea2#;
+   pragma Export (C, u00156, "system__exp_llliS");
+   u00157 : constant Version_32 := 16#18ee5867#;
+   pragma Export (C, u00157, "system__val_fltS");
+   u00158 : constant Version_32 := 16#8aea7eed#;
+   pragma Export (C, u00158, "system__exn_fltS");
+   u00159 : constant Version_32 := 16#1b28662b#;
+   pragma Export (C, u00159, "system__float_controlB");
+   u00160 : constant Version_32 := 16#cf061228#;
+   pragma Export (C, u00160, "system__float_controlS");
+   u00161 : constant Version_32 := 16#690df0ad#;
+   pragma Export (C, u00161, "system__powten_fltS");
+   u00162 : constant Version_32 := 16#ae4beccb#;
+   pragma Export (C, u00162, "system__val_intS");
+   u00163 : constant Version_32 := 16#a5b55d2f#;
+   pragma Export (C, u00163, "system__val_unsS");
+   u00164 : constant Version_32 := 16#0de7ae30#;
+   pragma Export (C, u00164, "ada__strings__fixedB");
+   u00165 : constant Version_32 := 16#64881af1#;
+   pragma Export (C, u00165, "ada__strings__fixedS");
+   u00166 : constant Version_32 := 16#021224f8#;
+   pragma Export (C, u00166, "system__pool_globalB");
+   u00167 : constant Version_32 := 16#29da5924#;
+   pragma Export (C, u00167, "system__pool_globalS");
+   u00168 : constant Version_32 := 16#eca5ecae#;
+   pragma Export (C, u00168, "system__memoryB");
+   u00169 : constant Version_32 := 16#76873720#;
+   pragma Export (C, u00169, "system__memoryS");
+   u00170 : constant Version_32 := 16#75390335#;
+   pragma Export (C, u00170, "system__strings__stream_opsB");
+   u00171 : constant Version_32 := 16#ec029138#;
+   pragma Export (C, u00171, "system__strings__stream_opsS");
 
    --  BEGIN ELABORATION ORDER
    --  ada%s
@@ -329,6 +393,8 @@ package ada_main is
    --  system.address_operations%b
    --  system.atomic_counters%s
    --  system.atomic_counters%b
+   --  system.float_control%s
+   --  system.float_control%b
    --  system.img_int%s
    --  system.io%s
    --  system.io%b
@@ -337,6 +403,7 @@ package ada_main is
    --  system.crtl%s
    --  interfaces.c_streams%s
    --  interfaces.c_streams%b
+   --  system.powten_flt%s
    --  system.storage_elements%s
    --  system.storage_elements%b
    --  system.stack_checking%s
@@ -359,6 +426,12 @@ package ada_main is
    --  system.wch_cnv%b
    --  system.compare_array_unsigned_8%s
    --  system.compare_array_unsigned_8%b
+   --  system.concat_2%s
+   --  system.concat_2%b
+   --  system.concat_3%s
+   --  system.concat_3%b
+   --  system.exn_flt%s
+   --  system.exp_llli%s
    --  system.traceback%s
    --  system.traceback%b
    --  ada.characters.handling%s
@@ -425,6 +498,8 @@ package ada_main is
    --  ada.exceptions%b
    --  ada.strings.search%s
    --  ada.strings.search%b
+   --  ada.strings.fixed%s
+   --  ada.strings.fixed%b
    --  ada.strings.utf_encoding%s
    --  ada.strings.utf_encoding%b
    --  ada.strings.utf_encoding.wide_strings%s
@@ -448,16 +523,37 @@ package ada_main is
    --  system.finalization_root%s
    --  system.finalization_root%b
    --  ada.finalization%s
+   --  ada.containers.helpers%s
+   --  ada.containers.helpers%b
    --  system.file_io%s
    --  system.file_io%b
+   --  system.storage_pools%s
+   --  system.storage_pools%b
+   --  system.finalization_masters%s
+   --  system.finalization_masters%b
+   --  system.storage_pools.subpools%s
+   --  system.storage_pools.subpools.finalization%s
+   --  system.storage_pools.subpools.finalization%b
+   --  system.storage_pools.subpools%b
    --  system.stream_attributes%s
    --  system.stream_attributes.xdr%s
    --  system.stream_attributes.xdr%b
    --  system.stream_attributes%b
    --  ada.strings.unbounded%s
    --  ada.strings.unbounded%b
+   --  system.val_flt%s
+   --  system.val_uns%s
+   --  system.val_int%s
    --  ada.text_io%s
    --  ada.text_io%b
+   --  system.pool_global%s
+   --  system.pool_global%b
+   --  system.strings.stream_ops%s
+   --  system.strings.stream_ops%b
+   --  io%s
+   --  io%b
+   --  alumno_model%s
+   --  alumno_model%b
    --  main%b
    --  END ELABORATION ORDER
 
