@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 25" line=" 165" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\08.Genericos\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 50" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\08.Genericos\src\generic_io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\08.Genericos\src\generic_io.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 10" line=" 31" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\CursoADA\08.Genericos\src\utils_inv.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

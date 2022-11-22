@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\GNAT\CursoADA\08.Genericos\default.gpr
+20221118081120 f3808b77f6c2d6d95c65f1e38f4877de
+[BOUND OBJECT FILES]
+C:\GNAT\CursoADA\08.Genericos\obj\generic_io.o
+C:\GNAT\CursoADA\08.Genericos\obj\io.o
+C:\GNAT\CursoADA\08.Genericos\obj\utils_inv.o
+C:\GNAT\CursoADA\08.Genericos\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\GNAT\CursoADA\08.Genericos\obj\
+-LC:\GNAT\CursoADA\08.Genericos\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
