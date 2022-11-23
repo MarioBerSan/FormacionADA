@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\GNAT\CursoADA\11.EjercicioHerencia\default.gpr
+20221123111126 d60f1665a037e73ba003806fb2564030
+[BOUND OBJECT FILES]
+C:\GNAT\CursoADA\11.EjercicioHerencia\obj\figura_model.o
+C:\GNAT\CursoADA\11.EjercicioHerencia\obj\rectangulo_model.o
+C:\GNAT\CursoADA\11.EjercicioHerencia\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\GNAT\CursoADA\11.EjercicioHerencia\obj\
+-LC:\GNAT\CursoADA\11.EjercicioHerencia\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
