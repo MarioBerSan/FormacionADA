@@ -1,0 +1,318 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P SS ZX
+
+RN
+RV NO_ALLOCATORS
+RV NO_DISPATCH
+RV NO_DISPATCHING_CALLS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTION_PROPAGATION
+RV NO_EXCEPTIONS
+RV NO_FLOATING_POINT
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_LOCAL_ALLOCATORS
+RV NO_NESTED_FINALIZATION
+RV NO_SECONDARY_STACK
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+
+U alumno_model%b	alumno_model.adb	9f1cf4b3 OO PK
+Z ada.exceptions%s	a-except.adb		a-except.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+Z ada.tags%s		a-tags.adb		a-tags.ali
+Z system%s		system.ads		system.ali
+Z system.concat_2%s	s-conca2.adb		s-conca2.ali
+Z system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+Z system.soft_links%s	s-soflin.adb		s-soflin.ali
+Z system.standard_library%s  s-stalib.adb	s-stalib.ali
+Z system.storage_elements%s  s-stoele.adb	s-stoele.ali
+Z system.storage_pools%s  s-stopoo.adb		s-stopoo.ali
+Z system.storage_pools.subpools%s  s-stposu.adb	s-stposu.ali
+
+U alumno_model%s	alumno_model.ads	c6643746 EE OO PF PK
+W ada%s			ada.ads			ada.ali
+W ada.containers%s	a-contai.ads		a-contai.ali
+Z ada.containers.generic_array_sort%s
+Z ada.containers.helpers%s  a-conhel.adb	a-conhel.ali
+W ada.containers.vectors%s
+Z ada.exceptions%s	a-except.adb		a-except.ali
+Z ada.finalization%s	a-finali.ads		a-finali.ali
+Z ada.iterator_interfaces%s
+Z ada.streams%s		a-stream.adb		a-stream.ali
+W ada.strings%s		a-string.ads		a-string.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.strings.unbounded%s  a-strunb.adb		a-strunb.ali
+Z ada.tags%s		a-tags.adb		a-tags.ali
+Z ada.unchecked_deallocation%s
+W persona_model%s	persona_model.adb	persona_model.ali
+Z system%s		system.ads		system.ali
+Z system.finalization_masters%s  s-finmas.adb	s-finmas.ali
+Z system.pool_global%s	s-pooglo.adb		s-pooglo.ali
+Z system.put_images%s	s-putima.adb		s-putima.ali
+Z system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+Z system.soft_links%s	s-soflin.adb		s-soflin.ali
+Z system.standard_library%s  s-stalib.adb	s-stalib.ali
+Z system.storage_elements%s  s-stoele.adb	s-stoele.ali
+Z system.storage_pools%s  s-stopoo.adb		s-stopoo.ali
+Z system.storage_pools.subpools%s  s-stposu.adb	s-stposu.ali
+Z system.stream_attributes%s  s-stratt.adb	s-stratt.ali
+Z system.strings.stream_ops%s  s-ststop.adb	s-ststop.ali
+
+D ada.ads		20210520051132 76789da1 ada%s
+D a-charac.ads		20210520051128 2d3ec45b ada.characters%s
+D a-chlat1.ads		20210520051128 66457d31 ada.characters.latin_1%s
+D a-contai.ads		20210520051128 61e5e089 ada.containers%s
+D a-cgarso.ads		20210520051128 9129bfa8 ada.containers.generic_array_sort%s
+D a-conhel.ads		20210520051128 20298884 ada.containers.helpers%s
+D a-conhel.adb		20210520051128 fe7a6827 ada.containers.helpers%b
+D a-convec.ads		20210520051128 5d39d84a ada.containers.vectors%s
+D a-convec.adb		20210520051128 8dbd1ef5 ada.containers.vectors%b
+D a-except.ads		20210520051128 946f3014 ada.exceptions%s
+D a-finali.ads		20210520051128 bf4f806b ada.finalization%s
+D a-iteint.ads		20210520051128 49a8bee2 ada.iterator_interfaces%s
+D a-stream.ads		20210520051130 119b8fb3 ada.streams%s
+D a-string.ads		20210520051130 90ac6797 ada.strings%s
+D a-strmap.ads		20210520051130 5a88892a ada.strings.maps%s
+D a-sttebu.ads		20210520051130 18209c64 ada.strings.text_buffers%s
+D a-strunb.ads		20210520051130 03325227 ada.strings.unbounded%s
+D a-stuten.ads		20210520051130 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051130 9eaa38c6 ada.tags%s
+D a-unccon.ads		20210520051130 0e9b276f ada.unchecked_conversion%s
+D a-uncdea.ads		20210520051130 c3a8ac65 ada.unchecked_deallocation%s
+D alumno_model.ads	20221123110326 084e93fe alumno_model%s
+D alumno_model.adb	20221123103626 9752674d alumno_model%b
+D interfac.ads		20210520051132 edec285f interfaces%s
+D persona_model.ads	20221123110414 90212ed5 persona_model%s
+D system.ads		20210520051136 2ffa5114 system%s
+D s-atocou.ads		20210520051132 b45c2d8d system.atomic_counters%s
+D s-atocou.adb		20210520051132 b65612c0 system.atomic_counters%b
+D s-conca2.ads		20210520051132 02a0d7d0 system.concat_2%s
+D s-exctab.ads		20210520051132 54135002 system.exception_table%s
+D s-finmas.ads		20210520051132 1ab4dba8 system.finalization_masters%s
+D s-finroo.ads		20210520051132 4ff27390 system.finalization_root%s
+D s-memory.ads		20210520051134 597d6634 system.memory%s
+D s-parame.ads		20210520051134 4752c4cb system.parameters%s
+D s-pooglo.ads		20210520051134 ede33ef8 system.pool_global%s
+D s-putima.ads		20210520051134 4e095881 system.put_images%s
+D s-secsta.ads		20210520051134 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051134 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051134 a37c21ec system.stack_checking%s
+D s-stalib.ads		20210520051134 472fbca8 system.standard_library%s
+D s-stalib.adb		20210520051134 977290bf system.standard_library%b
+D s-stoele.ads		20210520051134 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051134 ed88f8fb system.storage_elements%b
+D s-stopoo.ads		20210520051134 e9fa2dd8 system.storage_pools%s
+D s-stposu.ads		20210520051134 e251976f system.storage_pools.subpools%s
+D s-stratt.ads		20210520051134 7bdda3fa system.stream_attributes%s
+D s-string.ads		20210520051134 8fe54fb7 system.strings%s
+D s-ststop.ads		20210520051134 5fbf1b38 system.strings.stream_ops%s
+D s-traent.ads		20210520051134 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051134 2b077493 system.unsigned_types%s
+D unchconv.ads		20210520051136 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z s b [create alumno_model 15 13 none]
+G c Z s b [to_string alumno_model 18 24 none]
+G c Z s b [rendir_examen alumno_model 19 14 none]
+G c Z s b [calcular_promedio alumno_model 20 13 none]
+G c Z s s [has_element alumno_model__lista_notas 115 13 25_4]
+G c Z s s [empty alumno_model__lista_notas 125 13 25_4]
+G c Z s s [Oeq alumno_model__lista_notas 127 24 25_4]
+G c Z s s [to_vector alumno_model__lista_notas 136 13 25_4]
+G c Z s s [to_vector alumno_model__lista_notas 139 13 25_4]
+G c Z s s [Oconcat alumno_model__lista_notas 145 13 25_4]
+G c Z s s [Oconcat alumno_model__lista_notas 149 13 25_4]
+G c Z s s [Oconcat alumno_model__lista_notas 153 13 25_4]
+G c Z s s [Oconcat alumno_model__lista_notas 157 13 25_4]
+G c Z s s [capacity alumno_model__lista_notas 161 13 25_4]
+G c Z s s [reserve_capacity alumno_model__lista_notas 164 14 25_4]
+G c Z s s [length alumno_model__lista_notas 175 13 25_4]
+G c Z s s [set_length alumno_model__lista_notas 178 14 25_4]
+G c Z s s [is_empty alumno_model__lista_notas 187 13 25_4]
+G c Z s s [clear alumno_model__lista_notas 190 14 25_4]
+G c Z s s [to_cursor alumno_model__lista_notas 194 13 25_4]
+G c Z s s [to_index alumno_model__lista_notas 201 13 25_4]
+G c Z s s [element alumno_model__lista_notas 206 13 25_4]
+G c Z s s [element alumno_model__lista_notas 213 13 25_4]
+G c Z s s [replace_element alumno_model__lista_notas 217 14 25_4]
+G c Z s s [replace_element alumno_model__lista_notas 228 14 25_4]
+G c Z s s [query_element alumno_model__lista_notas 239 14 25_4]
+G c Z s s [query_element alumno_model__lista_notas 250 14 25_4]
+G c Z s s [update_element alumno_model__lista_notas 259 14 25_4]
+G c Z s s [update_element alumno_model__lista_notas 276 14 25_4]
+G c Z s s [constant_reference alumno_model__lista_notas 303 13 25_4]
+G c Z s s [reference alumno_model__lista_notas 308 13 25_4]
+G c Z s s [constant_reference alumno_model__lista_notas 313 13 25_4]
+G c Z s s [reference alumno_model__lista_notas 318 13 25_4]
+G c Z s s [assign alumno_model__lista_notas 323 14 25_4]
+G c Z s s [copy alumno_model__lista_notas 325 13 25_4]
+G c Z s s [move alumno_model__lista_notas 327 14 25_4]
+G c Z s s [new_vector alumno_model__lista_notas 333 13 25_4]
+G c Z s s [insert_vector alumno_model__lista_notas 337 14 25_4]
+G c Z s s [insert_vector alumno_model__lista_notas 361 14 25_4]
+G c Z s s [insert_vector alumno_model__lista_notas 378 14 25_4]
+G c Z s s [insert alumno_model__lista_notas 396 14 25_4]
+G c Z s s [insert alumno_model__lista_notas 404 14 25_4]
+G c Z s s [insert alumno_model__lista_notas 412 14 25_4]
+G c Z s s [insert alumno_model__lista_notas 421 14 25_4]
+G c Z s s [insert alumno_model__lista_notas 438 14 25_4]
+G c Z s s [prepend_vector alumno_model__lista_notas 449 14 25_4]
+G c Z s s [prepend alumno_model__lista_notas 459 14 25_4]
+G c Z s s [append_vector alumno_model__lista_notas 466 14 25_4]
+G c Z s s [append alumno_model__lista_notas 476 14 25_4]
+G c Z s s [append alumno_model__lista_notas 483 14 25_4]
+G c Z s s [insert_space alumno_model__lista_notas 486 14 25_4]
+G c Z s s [insert_space alumno_model__lista_notas 503 14 25_4]
+G c Z s s [delete alumno_model__lista_notas 514 14 25_4]
+G c Z s s [delete alumno_model__lista_notas 524 14 25_4]
+G c Z s s [delete_first alumno_model__lista_notas 533 14 25_4]
+G c Z s s [delete_last alumno_model__lista_notas 538 14 25_4]
+G c Z s s [reverse_elements alumno_model__lista_notas 546 14 25_4]
+G c Z s s [swap alumno_model__lista_notas 549 14 25_4]
+G c Z s s [swap alumno_model__lista_notas 554 14 25_4]
+G c Z s s [first_index alumno_model__lista_notas 560 13 25_4]
+G c Z s s [first alumno_model__lista_notas 563 13 25_4]
+G c Z s s [first_element alumno_model__lista_notas 567 13 25_4]
+G c Z s s [last_index alumno_model__lista_notas 570 13 25_4]
+G c Z s s [last alumno_model__lista_notas 574 13 25_4]
+G c Z s s [last_element alumno_model__lista_notas 578 13 25_4]
+G c Z s s [next alumno_model__lista_notas 581 13 25_4]
+G c Z s s [next alumno_model__lista_notas 587 14 25_4]
+G c Z s s [previous alumno_model__lista_notas 590 13 25_4]
+G c Z s s [previous alumno_model__lista_notas 596 14 25_4]
+G c Z s s [find_index alumno_model__lista_notas 599 13 25_4]
+G c Z s s [find alumno_model__lista_notas 609 13 25_4]
+G c Z s s [reverse_find_index alumno_model__lista_notas 623 13 25_4]
+G c Z s s [reverse_find alumno_model__lista_notas 635 13 25_4]
+G c Z s s [contains alumno_model__lista_notas 649 13 25_4]
+G c Z s s [iterate alumno_model__lista_notas 654 14 25_4]
+G c Z s s [reverse_iterate alumno_model__lista_notas 662 14 25_4]
+G c Z s s [iterate alumno_model__lista_notas 669 13 25_4]
+G c Z s s [iterate alumno_model__lista_notas 672 13 25_4]
+G c Z s s [adjust alumno_model__lista_notas__implementation 90 28 726_4_25_4]
+G c Z s s [finalize alumno_model__lista_notas__implementation 93 28 726_4_25_4]
+G c Z s s [zero_counts alumno_model__lista_notas__implementation 96 17 726_4_25_4]
+G c Z s s [busy alumno_model__lista_notas__implementation 100 17 726_4_25_4]
+G c Z s s [unbusy alumno_model__lista_notas__implementation 104 17 726_4_25_4]
+G c Z s s [lock alumno_model__lista_notas__implementation 108 17 726_4_25_4]
+G c Z s s [unlock alumno_model__lista_notas__implementation 112 17 726_4_25_4]
+G c Z s s [tc_check alumno_model__lista_notas__implementation 116 17 726_4_25_4]
+G c Z s s [te_check alumno_model__lista_notas__implementation 120 17 726_4_25_4]
+G c Z s s [initialize alumno_model__lista_notas__implementation 139 28 726_4_25_4]
+G c Z s s [finalize alumno_model__lista_notas__implementation 140 28 726_4_25_4]
+G c Z s s [initialize alumno_model__lista_notas__implementation 145 28 726_4_25_4]
+G c Z s s [finalize alumno_model__lista_notas__implementation 146 28 726_4_25_4]
+G c Z s s [reference_control_typeDA alumno_model__lista_notas__implementation 84 12 726_4_25_4]
+G c Z s s [reference_control_typeDF alumno_model__lista_notas__implementation 84 12 726_4_25_4]
+G c Z s s [reference_control_typeIP alumno_model__lista_notas__implementation 84 12 726_4_25_4]
+G c Z s s [with_busyDF alumno_model__lista_notas__implementation 136 12 726_4_25_4]
+G c Z s s [with_busyIP alumno_model__lista_notas__implementation 136 12 726_4_25_4]
+G c Z s s [with_lockDF alumno_model__lista_notas__implementation 142 12 726_4_25_4]
+G c Z s s [with_lockIP alumno_model__lista_notas__implementation 142 12 726_4_25_4]
+G c Z s s [put_image alumno_model__lista_notas 747 14 25_4]
+G c Z s s [adjust alumno_model__lista_notas 750 25 25_4]
+G c Z s s [finalize alumno_model__lista_notas 751 25 25_4]
+G c Z s s [write alumno_model__lista_notas 753 14 25_4]
+G c Z s s [read alumno_model__lista_notas 759 14 25_4]
+G c Z s s [read alumno_model__lista_notas 773 14 25_4]
+G c Z s s [write alumno_model__lista_notas 779 14 25_4]
+G c Z s s [write alumno_model__lista_notas 798 14 25_4]
+G c Z s s [read alumno_model__lista_notas 804 14 25_4]
+G c Z s s [write alumno_model__lista_notas 820 14 25_4]
+G c Z s s [read alumno_model__lista_notas 826 14 25_4]
+G c Z s s [pseudo_reference alumno_model__lista_notas 837 13 25_4]
+G c Z s s [get_element_access alumno_model__lista_notas 846 13 25_4]
+G c Z s s [cursorIP alumno_model__lista_notas 768 9 25_4]
+G c Z s s [vectorDA alumno_model__lista_notas 741 9 25_4]
+G c Z s s [vectorDF alumno_model__lista_notas 741 9 25_4]
+G c Z s s [vectorIP alumno_model__lista_notas 741 9 25_4]
+G c Z s s [constant_reference_typeDI alumno_model__lista_notas 788 9 25_4]
+G c Z s s [constant_reference_typeDA alumno_model__lista_notas 788 9 25_4]
+G c Z s s [constant_reference_typeDF alumno_model__lista_notas 788 9 25_4]
+G c Z s s [constant_reference_typeIP alumno_model__lista_notas 788 9 25_4]
+G c Z s s [reference_typeDI alumno_model__lista_notas 810 9 25_4]
+G c Z s s [reference_typeDA alumno_model__lista_notas 810 9 25_4]
+G c Z s s [reference_typeDF alumno_model__lista_notas 810 9 25_4]
+G c Z s s [reference_typeIP alumno_model__lista_notas 810 9 25_4]
+G c Z s s [finalize alumno_model__lista_notas 862 25 25_4]
+G c Z s s [first alumno_model__lista_notas 864 24 25_4]
+G c Z s s [last alumno_model__lista_notas 865 24 25_4]
+G c Z s s [next alumno_model__lista_notas 867 24 25_4]
+G c Z s s [previous alumno_model__lista_notas 871 24 25_4]
+G c Z s s [elements_arrayIP alumno_model__lista_notas 729 9 25_4]
+G c Z s s [elements_typeIP alumno_model__lista_notas 732 9 25_4]
+G c Z s s [iteratorDF alumno_model__lista_notas 854 9 25_4]
+G c Z s s [iteratorIP alumno_model__lista_notas 854 9 25_4]
+G c Z s s [free alumno_model__lista_notas 44 14 25_4]
+G c Z s s [append_slow_path alumno_model__lista_notas 47 14 25_4]
+G c Z s s [c_alumnoDA alumno_model 30 9 none]
+G c Z s s [c_alumnoDF alumno_model 30 9 none]
+G c Z s s [c_alumnoDI alumno_model 30 9 none]
+G c Z s s [c_alumnoIP alumno_model 30 9 none]
+G r s c_persona [create alumno_model 15 13 none] [c_personaIP persona_model 15 9 none]
+G r j c_persona [c_alumnoDA alumno_model 30 9 none] [c_personaDA persona_model 15 9 none]
+G r k c_persona [c_alumnoDF alumno_model 30 9 none] [c_personaDF persona_model 15 9 none]
+G r s c_persona [c_alumnoIP alumno_model 30 9 none] [c_personaIP persona_model 15 9 none]
+G r k c_persona [c_alumnoIP alumno_model 30 9 none] [c_personaDF persona_model 15 9 none]
+X 1 ada.ads
+16K9*Ada 20e8 22|2r6 2r33 3r6 25r31
+X 4 a-contai.ads
+16K13*Containers 28e19 22|3r10 25r35
+22I9*Count_Type<integer>
+X 8 a-convec.ads
+62I9 Index_Type 22|26r55
+63+9 Element_Type 22|25r55
+74k24*Vectors 875e27 22|3w21 25r46
+91R9*Vector<11|43R9> 22|32r30[25]
+122r4*Empty_Vector{91R9[22|25]} 22|32r40[25] 23|8r40[22|25]
+175V13*Length{4|22I9} 23|28s64[22|25] 34s54[22|25]
+483U14*Append 23|22s21[22|25]
+X 12 a-iteint.ads
+24h9 Forward_Iterator
+32h9 Reversible_Iterator<24R9[8|119]>
+X 14 a-string.ads
+16K13*Strings 35e16 22|2r10 2r37
+X 17 a-strunb.ads
+83K21*Unbounded 765e26 22|2w18 2r45
+88R9*Unbounded_String<11|43R9> 744e15 22|31r16
+104V13*To_Unbounded_String{88R9} 23|7s53
+117V13*To_String{string} 23|15s41
+X 22 alumno_model.ads
+5K9*Alumno_Model 25E12 36l5 36e17 23|1b14 38l5 38t17
+8R9*C_Alumno<25|6R9> 9r26 18P24 18r43 19p14 19r41 20p13 20r37 30c9 33e14
+. 23|7r18 13r32 20r41 27r37
+9P9*Alumno(8R9) 15r43 23|5r43
+11I9*Nota<integer> 19r64 25r71 23|20r64
+12F9*Promedio_Notas<float> 20r54 23|27r54 34r14
+15V13*Create{9P9} 15>20 23|5b13 9l8 9t14
+15a20 Nombre{string} 23|5b20 7r73
+18V24*To_String{string}<25|11p13> 18>34 23|13b13 16l8 16t17
+18r34 This{8R9} 23|13b23 15r51
+19U14*Rendir_Examen 19=28 19>51 23|20b14 23l8 23t21
+19r28 This{8R9} 23|20b28 22m7 22r7
+19i51 Nota_Examen{11I9} 23|20b51 22r28
+20V13*Calcular_Promedio{12F9} 20>31 23|27b13 35l8 35t25
+20r31 This{8R9} 23|27b31 28r71 31r21 34r61
+25K12 Lista_Notas[8|74] 27r8 32r18
+31r7 Nombre{17|88R9} 23|7m43 15r56
+32r7 Examenes{8|91R9[25]} 23|8m28 22m12 28r76 31r26 34r66
+X 23 alumno_model.adb
+28F12 Sumatoria_Notas<float> 29r19 32r23
+29f7 Sumatoria{28F12} 32m10 32r49 34r35
+31i11 Examen{22|11I9} 32r39
+X 25 persona_model.ads
+4K9*Persona_Model 22|1w6 1r25 25|19e18
+6H9*C_Persona 22|8r25 30r25 23|7r28 25|17e14
+X 26 system.ads
+67M9*Address
+X 33 s-memory.ads
+53V13*Alloc{26|67M9} 103i<c,__gnat_malloc>22
+68U14*Free 104i<c,__gnat_free>22
+76V13*Realloc{26|67M9} 105i<c,__gnat_realloc>22
+X 41 s-stalib.adb
+89U14 Break_Start 90i<c,__gnat_break_start>22
+
